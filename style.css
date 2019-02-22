@@ -1,0 +1,13 @@
+/*
+Theme Name:   ignis theme child
+Template:     ignis 
+Description:  ignis theme child
+Author:       flexipop
+Author URI:   http://flexipop.fr
+Version:      1.0.0
+Text Domain:  ignis-child
+*/
+
+header{
+    background-color: black !important;
+}
